@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Window1.xaml](./CS/FocusEditorEx/Window1.xaml) (VB: [Window1.xaml](./VB/FocusEditorEx/Window1.xaml))
+* [Window1.xaml.cs](./CS/FocusEditorEx/Window1.xaml.cs) (VB: [Window1.xaml](./VB/FocusEditorEx/Window1.xaml))
+<!-- default file list end -->
 # How to get and focus an in-place editor
 
 
